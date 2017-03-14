@@ -14,4 +14,5 @@ B. debug/edit already existing codes
 C. provide more test cases. Raise cases which may have been missed.
   -log these in a separate file too.
 
-Adios. Happy Coding!
+Adios. 
+Happy Coding!
