@@ -5,6 +5,7 @@
 
 //libraries or dependencies
 //compile time instructions
+//TODO: add things you know need to be done eg. "Add comments", "Change variable names", "<xyz> case is not handled"
 #include<iostream>
 using namespace std;
 
